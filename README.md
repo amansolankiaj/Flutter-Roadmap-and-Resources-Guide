@@ -120,7 +120,7 @@ Learning never ends! Keep learning with resources, keep exploring, keep sharing 
 
 ## 📃 Other Resources
 
-Below are the resources which you can use to expand you Flutter knowledge and research:
+Below are the resources which you can use to expand you Flutter knowledge, research and work:
 - [Flutter Official Doc][flutterdoc]
 - [ItsAllWidgets][itsallwidges]
 - Medium
@@ -142,6 +142,14 @@ Below are the resources which you can use to expand you Flutter knowledge and re
   - [MTECHVIRAL][mtechviral-yt]
   - [Easy Approach][easyapproach-yt]
   - [Net Ninja][net-ninja-playlist]
+
+- Good Organization
+  - [7Span Technologies Pvt Ltd](https://7span.com/)
+  - [Zazz](https://www.zazz.io/)
+  - [Nix](https://nix-united.com/)
+
+## 📃 Note
+Learning is a very good thing, and selecting the best [flutter app development company](https://7span.com/flutter-development-company/) to work with is also important. I am suggesting going with the above companies. They pay very well to deserving developers and must find established organizations to earn good and long-term collaboration.
 
 ## Make sure to 🌟 the Repo!
 
